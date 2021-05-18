@@ -10,4 +10,4 @@ lyric link: https://api.lyrics.ovh/v1/:artist/:title
 example: https://api.lyrics.ovh/v1/Adele/Hello
 
 ### Live Site
-   Link : https://ir03.github.io/Music-Search-Api/index.html
+   Link : https://ir03.github.io/music-search/index.html
